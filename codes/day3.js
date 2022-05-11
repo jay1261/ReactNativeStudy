@@ -1,0 +1,1 @@
+const tt = document.getElementsByClassName("h2");
